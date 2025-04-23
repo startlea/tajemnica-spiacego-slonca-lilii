@@ -1,6 +1,6 @@
 # 🌞 Tajemnica Śpiącego Słońca Lilii
 
-**Autorska bajka terapeutyczna dla dzieci**, która porusza temat emocji, odwagi i odkrywania własnego wewnętrznego światła.  
+**Autorska bajka terapeutyczna dla dzieci**, która porusza temat emocji, odwagi i odkrywania własnego wewnętrznego światła z elementami uważności.  
 Projekt łączy psychologię dziecięcą z edukacją i technologią.
 
 ## 📘 Co znajdziesz w tym repozytorium?
