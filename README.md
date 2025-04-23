@@ -17,5 +17,4 @@ Wersja cyfrowa będzie umożliwiać: wybór ścieżek, pytania refleksyjne, anim
 
 ## 📌 Demo i linki
 
-- Wpis na blogu: [Namako Psyche](https://pyche.namako.eu/2025/04/23/tajemnica-spiacego-sloneczka-lilii/)
 - Interaktywna wersja (soon! 🚧)
